@@ -2,7 +2,7 @@
 
 This repository contains analysis code and interactive visualizations supporting the study:
 
-**Rivera J. et al., 2025**  
+**Rivera J., Yan Q, et al., 2025**  
 *Deciphering neutrophil dynamics in the focal lesion tumor microenvironment to overcome immunosuppression in multiple myeloma*  
 Blood  
 http://ashpublications.org/blood/article/146/20/2392/546480/Deciphering-neutrophil-dynamics-in-the-focal
