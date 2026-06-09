@@ -23,7 +23,7 @@ Single-cell RNA-seq was used to resolve these dynamics at high resolution across
 
 ---
 
-## Key Findings (High-Level)
+## Key Findings 
 
 - Identification of distinct neutrophil maturation states within focal lesions  
 - Evidence of transcriptional programs associated with immunosuppressive phenotypes  
